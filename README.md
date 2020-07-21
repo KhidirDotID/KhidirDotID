@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![github stats](https://github-readme-stats.vercel.app/api?username=khidirdotid&show_icons=true)
 
 - 🔭 I’m currently working on `PHP Projects`
 - 🌱 I’m currently learning `Laravel`, `VueJS`, `CodeIgniter 4`
